@@ -9,6 +9,7 @@ Please note that this project is currently unfinished and under active developme
 - Market Scanner: The bot can automatically scan the in-game market for figures that meet the user-defined criteria by using OCR.
 - Custom Filters: Users can create their own filters based on various attributes, such as rarity, level, stats, etc.
 - Bluestacks Compatibility: The bot is designed to work seamlessly with the Bluestacks emulator using the standard window size.
+- Auto unstuck: If an error triggers, the bot will try to setup the game to work again.
 
 ## Installation
 
@@ -30,6 +31,12 @@ You can configure the bot by editing the figures.json file. In this file, you ca
 - Type and rarity of the stats of the figure
 - Slots of the figure
 - Price cap
+
+## TODO
+
+- Currently, the bot is spamming searches on each rarity and checking the results instead of actively filtering them, the select options mode must be finished.
+- The slot recognition is not working properly, the checks always return 0-2.
+- GUI.
 
 ## Contributing
 

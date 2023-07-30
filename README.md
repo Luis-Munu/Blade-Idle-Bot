@@ -12,14 +12,14 @@ Please note that this project is currently unfinished and under active developme
 
 ## Installation
 
-Clone the repository: git clone https://github.com/Valkam-Git/Blade-Idle-Bot.git
-Install the required dependencies: pip install -r requirements.txt
+- Clone the repository: ```git clone https://github.com/Valkam-Git/Blade-Idle-Bot.git```
+- Install the required dependencies: ```pip install -r requirements.txt```
 
 ## Usage
 
 1. Launch the Bluestacks emulator with the standard window size.
 2. Open the "Blade Idle" game within the emulator and open the market tab.
-3. Run the bot: python sniper.py
+3. Open a CMD window on the folder and run the bot: ```python sniper.py```
 4. The bot will start scanning the market based on your custom filters.
 
 ## Configuration

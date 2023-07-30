@@ -37,6 +37,7 @@ You can configure the bot by editing the figures.json file. In this file, you ca
 - Currently, the bot is spamming searches on each rarity and checking the results instead of actively filtering them, the select options mode must be finished.
 - The slot recognition is not working properly, the checks always return 0-2.
 - GUI.
+- Improve image recognition to work with other monitor sizes other than 4k and window sizes.
 
 ## Contributing
 

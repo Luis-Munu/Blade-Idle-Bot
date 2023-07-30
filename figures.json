@@ -1,0 +1,14 @@
+[
+    {
+        "rarity": "Legendary",
+        "price": 26000
+    },
+    {
+        "rarity": "Mythic",
+        "price": 37000
+    },
+    {
+        "rarity": "God",
+        "price": 80000
+    }
+]

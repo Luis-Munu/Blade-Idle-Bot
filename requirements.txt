@@ -1,0 +1,5 @@
+numpy==1.23.5
+opencv_python==4.7.0.68
+pytesseract==0.3.10
+pywin32==305
+win32gui==221.6
